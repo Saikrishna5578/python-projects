@@ -1,1 +1,3 @@
-This is a repositary contaning the python projects that are done by me 
+This is my PYTHON projects Repositary
+<br>
+Author: G.saikrishna
